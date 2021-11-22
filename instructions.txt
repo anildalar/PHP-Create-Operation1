@@ -1,0 +1,32 @@
+MySQL Data Types
+INT
+VARCHAR
+TEXT
+TIMESTAMP
+
+Attributes
+PK = Primary Key
+AI = Auto Increment
+
+PHP Data Types
+
+URL
+Everything after question mark is a querystring
+
+?name=value&name=value&name=value........
+
+?sid=0pm%2Cfcn&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p%5B%5D=facets.connectivity%255B%255D%3DBluetooth&p%5B%5D=facets.rating%255B%255D%3D3%25E2%2598%2585%2B%2526%2Babove&hpid=5s0NH4sfGWoVoQLDqOKpdap7_Hsxr70nj65vMAAFKlc=&fm=neon%2Fmerchandising&iid=M_6a2770f5-29a2-40fe-b9c4-320745f49bd7_29.P3GMLLQHKD3E&ssid=d8dh11q9sw0000001637547122030&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_2_9.dealCard.OMU_P3GMLLQHKD3E_5&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_2_NA_view-all_5&cid=P3GMLLQHKD3E
+
+?name=abhishek&course=PHP
+
+Client ----> Data URL QueryString -----> Server--->Database (Store)
+
+Client ---->  Request  ----> (Apache)Server ---> Database
+Client <----- Response ---- (Apache )Server
+
+
+CRUD
+C = Create Operations (Store)
+R = Read Operations
+U = Update/Edit Operations
+D = Delete Operations
